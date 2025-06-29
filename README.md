@@ -1,4 +1,4 @@
-# test-repository
+# Test-repository for Git Course
 Depositoy created for git course
 
 ## Description
