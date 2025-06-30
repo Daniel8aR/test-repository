@@ -3,3 +3,5 @@ ignore_this.txt
 
 #Se ignoran todos los .txt menos éste
 !readme.txt
+
+test-repository
