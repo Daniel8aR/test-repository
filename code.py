@@ -1,6 +1,4 @@
-name = "Luke"
-lastName = "Skywalker"
+name = "Daniel"
+lastName = "Ochoa"
 
-greetings = "Hola " + name + " " + lastName
-
-print(greetings)
+print("Hola " + name + " " + lastName)
