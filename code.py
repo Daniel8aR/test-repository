@@ -1,4 +1,4 @@
 name = "Adam"
-lastName = "Jensen"
+lastName = "Smasher"
 
 print("Hola " + name + " " + lastName)
